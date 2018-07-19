@@ -1,0 +1,18 @@
+[2018-07-18 14:36:49.702] [exthost1] [info] extension host started
+[2018-07-18 14:36:49.731] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-18 14:36:49.731] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-18 14:36:49.800] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-18 14:36:49.800] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-18 14:36:49.988] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-18 14:36:49.988] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-18 14:36:50.000] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-18 14:36:50.000] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-18 14:36:50.007] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-18 14:36:50.007] [exthost1] [info] ExtensionService#loadCommonJSModule /home/toticavalcanti/.vscode/extensions/eamodio.gitlens-8.5.1/out/extension
+[2018-07-18 14:36:50.226] [exthost1] [info] eager extensions activated
+[2018-07-18 14:36:50.430] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-07-18 14:36:50.430] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-07-18 14:36:50.561] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-07-18 14:36:50.561] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-07-18 14:36:50.573] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-07-18 14:36:50.573] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/out/jsonMain
