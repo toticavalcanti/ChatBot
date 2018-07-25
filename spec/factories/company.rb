@@ -3,4 +3,3 @@ FactoryBot.define do
        name FFaker::Lorem.word
     end
 end
-]
